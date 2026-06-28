@@ -10,7 +10,7 @@
 ## 🔗 Live Demo
 👉 **[Try it here → huggingface.co/spaces/Aizazulhaq/pneumonia-detector](https://huggingface.co/spaces/Aizazulhaq/pneumonia-detector)**
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
