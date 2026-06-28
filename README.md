@@ -149,7 +149,7 @@ physician or radiologist. Always consult a medical professional.
 
 **Aizaz ul Haq**
 
-🔗 [LinkedIn](www.linkedin.com/in/aizaz-ul-haq-985569308)
+🔗 [LinkedIn](www.linkedin.com/in/aizaz-ull-haq)
 🤗 [HuggingFace](https://huggingface.co/Aizazulhaq)
 💻 [GitHub](https://github.com/Aizaz-ull-haq)
 
